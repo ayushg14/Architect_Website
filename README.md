@@ -42,4 +42,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions regarding this project, feel free to contact Ayush Gupta at mail to - ayushg1408@gmail.com.
+If you have any questions or suggestions regarding this project, feel free to contact Ayush Gupta at mail to - ayushg1408@gmail.com
